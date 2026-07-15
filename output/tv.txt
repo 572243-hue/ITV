@@ -5,12 +5,12 @@ CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
-CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
@@ -95,6 +95,8 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
 ☘️重庆频道,#genre#
 重庆卫视,http://110.41.68.68:1023/738910914
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+荣昌综合 [Not 24/7],http://183.64.181.25:40023/rongchang01.m3u8
 ☘️四川频道,#genre#
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
@@ -117,6 +119,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️新疆频道,#genre#
 新疆天山,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 白城新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广东频道,#genre#
 广东卫视,http://110.41.68.68:1023/608831231
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
@@ -197,7 +200,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️湖南频道,#genre#
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 🌊港澳台频道,#genre#
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -210,11 +213,12 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 # ===== 以下为自动追加的频道 =====
 
 🌊港·澳·台,#genre#
-九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+福州广电视台新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 # ========== 智能补充分类 ==========
