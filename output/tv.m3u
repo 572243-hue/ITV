@@ -7,22 +7,22 @@ http://69.30.245.50/live/cctv8.m3u8
 http://45.192.97.170:8880/play/6.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-9
 http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-3
-http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-6
-http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5
 http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-7
+http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-10
 http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
 http://45.192.97.170:8880/play/12.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-12
 http://45.192.97.170:8880/play/13.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-7
-http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
 http://45.192.97.170:8880/play/14.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
@@ -49,8 +49,6 @@ http://112.27.235.94:8000/hls/42/index.m3u8
 http://116.52.173.134:1234/962042070
 #EXTINF:-1 group-title="📡卫视频道",内蒙古卫视
 http://112.27.235.94:8000/hls/49/index.m3u8
-#EXTINF:-1 group-title="📡卫视频道",辽宁卫视
-http://116.52.173.134:1234/630291707
 #EXTINF:-1 group-title="📡卫视频道",黑龙江卫视
 http://116.52.173.134:1234/738906901
 #EXTINF:-1 group-title="📡卫视频道",东方卫视
@@ -63,14 +61,14 @@ http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 http://112.27.235.94:8000/hls/26/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",东南卫视
 http://116.52.173.134:1234/849116810
-#EXTINF:-1 group-title="📡卫视频道",江西卫视
-http://116.52.173.134:1234/783847495
 #EXTINF:-1 group-title="📡卫视频道",山东卫视
 http://112.27.235.94:8000/hls/34/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",河南卫视
 http://116.52.173.134:1234/790187291
 #EXTINF:-1 group-title="📡卫视频道",湖北卫视
 http://116.52.173.134:1234/947472496
+#EXTINF:-1 group-title="📡卫视频道",湖南卫视
+http://112.27.235.94:8000/hls/31/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",广东卫视
 http://116.52.173.134:1234/608831231
 #EXTINF:-1 group-title="📡卫视频道",三沙卫视
@@ -163,8 +161,6 @@ https://ls.qingting.fm/live/5022100/64k.m3u8
 http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="☘️福建频道",云霄综合
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
-#EXTINF:-1 group-title="☘️江西频道",江西卫视
-http://116.52.173.134:1234/783847495
 #EXTINF:-1 group-title="☘️山东频道",山东卫视
 http://112.27.235.94:8000/hls/34/index.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻综合
@@ -231,8 +227,6 @@ https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;am
 http://60.222.246.220:19433/hls1.m3u8
 #EXTINF:-1 group-title="☘️内蒙古频道",内蒙古卫视
 http://112.27.235.94:8000/hls/49/index.m3u8
-#EXTINF:-1 group-title="☘️辽宁频道",辽宁卫视
-http://116.52.173.134:1234/630291707
 #EXTINF:-1 group-title="☘️辽宁频道",七台河新闻综合
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️吉林频道",长春综合 [Geo-blocked]
@@ -313,6 +307,8 @@ http://116.52.173.134:1234/790187291
 http://1.94.31.214/php/hntv.php?id=hnxc
 #EXTINF:-1 group-title="☘️湖北频道",湖北卫视
 http://116.52.173.134:1234/947472496
+#EXTINF:-1 group-title="☘️湖南频道",湖南卫视
+http://112.27.235.94:8000/hls/31/index.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南张家界天门山西线玻璃栈道
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南张家界水绕四门
@@ -335,10 +331,10 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 # ===== 以下为自动追加的频道 =====
 
 # ----- 🌊港·澳·台 -----
-#EXTINF:-1 group-title="🌊港·澳·台",江苏徐州云龙湖风景区云龙山观景台西
-https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 #EXTINF:-1 group-title="🌊港·澳·台",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🌊港·澳·台",江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 #EXTINF:-1 group-title="🌊港·澳·台",绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 group-title="🌊港·澳·台",Bread TV面包台
@@ -346,7 +342,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 # ========== 智能补充分类 ==========
 
-# ----- 📻 网络电台 (260个频道) -----
+# ----- 📻 网络电台 (263个频道) -----
 #EXTINF:-1 group-title="📻 网络电台",香港第三台
 http://45.192.97.170:8880/play/6164.m3u8
 #EXTINF:-1 group-title="📻 网络电台",亚洲热歌
@@ -443,6 +439,8 @@ http://45.192.97.170:8880/play/6235.m3u8
 http://45.192.97.170:8880/play/6236.m3u8
 #EXTINF:-1 group-title="📻 网络电台",贵州综合广播
 http://45.192.97.170:8880/play/6237.m3u8
+#EXTINF:-1 group-title="📻 网络电台",延边文艺生活广播
+http://45.192.97.170:8880/play/6238.m3u8
 #EXTINF:-1 group-title="📻 网络电台",辽宁之声
 http://45.192.97.170:8880/play/6239.m3u8
 #EXTINF:-1 group-title="📻 网络电台",辽宁乡村广播
@@ -601,6 +599,8 @@ http://45.192.97.170:8880/play/6339.m3u8
 http://45.192.97.170:8880/play/6340.m3u8
 #EXTINF:-1 group-title="📻 网络电台",北京生活
 http://45.192.97.170:8880/play/6341.m3u8
+#EXTINF:-1 group-title="📻 网络电台",第一财经
+http://45.192.97.170:8880/play/6342.m3u8
 #EXTINF:-1 group-title="📻 网络电台",湖南潇湘之声
 http://45.192.97.170:8880/play/6343.m3u8
 #EXTINF:-1 group-title="📻 网络电台",湖南经济广播
@@ -745,6 +745,8 @@ http://45.192.97.170:8880/play/6424.m3u8
 http://45.192.97.170:8880/play/6425.m3u8
 #EXTINF:-1 group-title="📻 网络电台",吉林新闻综合广播
 http://45.192.97.170:8880/play/6426.m3u8
+#EXTINF:-1 group-title="📻 网络电台",吉林交通广播
+http://45.192.97.170:8880/play/6427.m3u8
 #EXTINF:-1 group-title="📻 网络电台",吉林乡村广播
 http://45.192.97.170:8880/play/6428.m3u8
 #EXTINF:-1 group-title="📻 网络电台",延边新闻广播
