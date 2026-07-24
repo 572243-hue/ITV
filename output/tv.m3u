@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="📺央视频道",CCTV-2
-http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-8
-http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5+
 http://45.192.97.170:8880/play/6.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-8
+http://69.30.245.50/live/cctv8.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-2
+http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-9
 http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-4
-http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-3
-http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-6
@@ -21,14 +17,18 @@ http://69.30.245.50/live/cctv7.m3u8
 http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
 http://45.192.97.170:8880/play/12.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-12
-http://45.192.97.170:8880/play/13.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
 http://45.192.97.170:8880/play/14.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-12
+http://45.192.97.170:8880/play/13.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://45.192.97.170:8880/play/15.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-15
 http://45.192.97.170:8880/play/16.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-4
+http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-16
@@ -89,8 +89,6 @@ http://112.27.235.94:8000/hls/40/index.m3u8
 http://101.66.194.177:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="📡卫视频道",海峡卫视
 http://116.52.173.134:1234/849119120
-#EXTINF:-1 group-title="📡卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="☘️上海频道",普陀山
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 #EXTINF:-1 group-title="☘️江苏频道",南京新闻综合
@@ -159,8 +157,6 @@ http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️福建频道",东南卫视
 http://116.52.173.134:1234/849116810
-#EXTINF:-1 group-title="☘️福建频道",三明新闻综合
-https://ls.qingting.fm/live/5022100/64k.m3u8
 #EXTINF:-1 group-title="☘️福建频道",桦甸
 http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="☘️福建频道",云霄综合
@@ -185,8 +181,8 @@ https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 https://ls.qingting.fm/live/5022203/64k.m3u8
 #EXTINF:-1 group-title="☘️云南频道",云南卫视
 http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="☘️云南频道",云南丽江玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="☘️云南频道",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
 #EXTINF:-1 group-title="☘️陕西频道",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 #EXTINF:-1 group-title="☘️陕西频道",河南新闻
@@ -317,10 +313,10 @@ http://1.94.31.214/php/hntv.php?id=hnxc
 http://116.52.173.134:1234/947472496
 #EXTINF:-1 group-title="☘️湖南频道",湖南卫视
 http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 group-title="☘️湖南频道",湖南张家界天门山西线玻璃栈道
-https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南张家界水绕四门
 https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="☘️湖南频道",湖南张家界天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 #EXTINF:-1 group-title="🌊港澳台频道",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="🌊港澳台频道",台视新闻
@@ -350,7 +346,7 @@ http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%
 
 # ========== 智能补充分类 ==========
 
-# ----- 📻 网络电台 (259个频道) -----
+# ----- 📻 网络电台 (263个频道) -----
 #EXTINF:-1 group-title="📻 网络电台",香港第三台
 http://45.192.97.170:8880/play/6273.m3u8
 #EXTINF:-1 group-title="📻 网络电台",亚洲热歌
@@ -391,6 +387,8 @@ http://45.192.97.170:8880/play/6307.m3u8
 http://45.192.97.170:8880/play/6308.m3u8
 #EXTINF:-1 group-title="📻 网络电台",安徽交通广播
 http://45.192.97.170:8880/play/6309.m3u8
+#EXTINF:-1 group-title="📻 网络电台",安徽旅游广播·高速之声
+http://45.192.97.170:8880/play/6310.m3u8
 #EXTINF:-1 group-title="📻 网络电台",安徽戏曲广播·动听995
 http://45.192.97.170:8880/play/6311.m3u8
 #EXTINF:-1 group-title="📻 网络电台",安徽故事广播
@@ -403,6 +401,8 @@ http://45.192.97.170:8880/play/6314.m3u8
 http://45.192.97.170:8880/play/6315.m3u8
 #EXTINF:-1 group-title="📻 网络电台",福建东南广播
 http://45.192.97.170:8880/play/6316.m3u8
+#EXTINF:-1 group-title="📻 网络电台",山东交通广播
+http://45.192.97.170:8880/play/6318.m3u8
 #EXTINF:-1 group-title="📻 网络电台",山东体育休闲广播
 http://45.192.97.170:8880/play/6319.m3u8
 #EXTINF:-1 group-title="📻 网络电台",山东经济广播
@@ -603,6 +603,8 @@ http://45.192.97.170:8880/play/6448.m3u8
 http://45.192.97.170:8880/play/6449.m3u8
 #EXTINF:-1 group-title="📻 网络电台",北京生活
 http://45.192.97.170:8880/play/6450.m3u8
+#EXTINF:-1 group-title="📻 网络电台",第一财经
+http://45.192.97.170:8880/play/6451.m3u8
 #EXTINF:-1 group-title="📻 网络电台",湖南潇湘之声
 http://45.192.97.170:8880/play/6452.m3u8
 #EXTINF:-1 group-title="📻 网络电台",湖南经济广播
@@ -697,6 +699,8 @@ http://45.192.97.170:8880/play/6506.m3u8
 http://45.192.97.170:8880/play/6507.m3u8
 #EXTINF:-1 group-title="📻 网络电台",浙江旅游之声
 http://45.192.97.170:8880/play/6508.m3u8
+#EXTINF:-1 group-title="📻 网络电台",重庆都市广播·私家车938
+http://45.192.97.170:8880/play/6509.m3u8
 #EXTINF:-1 group-title="📻 网络电台",广东新闻广播
 http://45.192.97.170:8880/play/6510.m3u8
 #EXTINF:-1 group-title="📻 网络电台",广东股市广播
@@ -870,7 +874,7 @@ http://45.192.97.170:8880/play/6607.m3u8
 #EXTINF:-1 group-title="📻 网络电台",青海交通音乐广播
 http://45.192.97.170:8880/play/6609.m3u8
 
-# ----- 🎤 韩国女团 (112个频道) -----
+# ----- 🎤 韩国女团 (113个频道) -----
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★021
 http://45.192.97.170:8880/play/6116.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★022
@@ -1053,6 +1057,8 @@ http://45.192.97.170:8880/play/6204.m3u8
 http://45.192.97.170:8880/play/6205.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★129
 http://45.192.97.170:8880/play/6206.m3u8
+#EXTINF:-1 group-title="🎤 韩国女团",歌团★130
+http://45.192.97.170:8880/play/6207.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★131
 http://45.192.97.170:8880/play/6208.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★133
