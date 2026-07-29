@@ -1,12 +1,11 @@
 📺央视频道,#genre#
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
@@ -14,6 +13,7 @@ CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
+CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
@@ -88,7 +88,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 ☘️四川频道,#genre#
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 ☘️贵州频道,#genre#
@@ -170,6 +169,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 ☘️河南频道,#genre#
 河南卫视,http://115.194.171.196:1234/790187291
+河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
 ☘️湖北频道,#genre#
 湖北卫视,http://115.194.171.196:1234/947472496
 ☘️湖南频道,#genre#
@@ -322,7 +322,6 @@ CGTN Radio,http://45.192.97.170:8880/play/6570.m3u8
 北京影视,http://45.192.97.170:8880/play/6589.m3u8
 北京财经,http://45.192.97.170:8880/play/6590.m3u8
 北京生活,http://45.192.97.170:8880/play/6591.m3u8
-第一财经,http://45.192.97.170:8880/play/6592.m3u8
 湖南潇湘之声,http://45.192.97.170:8880/play/6593.m3u8
 湖南经济广播,http://45.192.97.170:8880/play/6594.m3u8
 湖南交通广播,http://45.192.97.170:8880/play/6596.m3u8
@@ -550,6 +549,7 @@ CRI HIT FM,http://45.192.97.170:8880/play/6731.m3u8
 歌团★127,http://45.192.97.170:8880/play/6345.m3u8
 歌团★128,http://45.192.97.170:8880/play/6346.m3u8
 歌团★129,http://45.192.97.170:8880/play/6347.m3u8
+歌团★130,http://45.192.97.170:8880/play/6348.m3u8
 歌团★131,http://45.192.97.170:8880/play/6349.m3u8
 歌团★133,http://45.192.97.170:8880/play/6350.m3u8
 歌团★134,http://45.192.97.170:8880/play/6351.m3u8

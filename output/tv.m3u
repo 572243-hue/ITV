@@ -3,18 +3,16 @@
 http://45.192.97.170:8880/play/6.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-8
 http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-15
-http://45.192.97.170:8880/play/16.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-3
 http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-6
-http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5
 http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-7
 http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-9
@@ -29,6 +27,8 @@ http://45.192.97.170:8880/play/13.m3u8
 http://45.192.97.170:8880/play/14.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://45.192.97.170:8880/play/15.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-15
+http://45.192.97.170:8880/play/16.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-2
 http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-16
@@ -157,8 +157,6 @@ http://222.179.155.21:1935/ch1.m3u8
 http://112.27.235.94:8000/hls/35/index.m3u8
 #EXTINF:-1 group-title="☘️四川频道",延边新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="☘️四川频道",泸县新闻综合
-https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 group-title="☘️四川频道",荥经综合
 https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 #EXTINF:-1 group-title="☘️四川频道",乐至综合
@@ -283,6 +281,8 @@ http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️河南频道",河南卫视
 http://115.194.171.196:1234/790187291
+#EXTINF:-1 group-title="☘️河南频道",河南乡村
+http://1.94.31.214/php/hntv.php?id=hnxc
 #EXTINF:-1 group-title="☘️湖北频道",湖北卫视
 http://115.194.171.196:1234/947472496
 #EXTINF:-1 group-title="☘️湖南频道",湖南卫视
@@ -318,7 +318,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 # ========== 智能补充分类 ==========
 
-# ----- 📻 网络电台 (262个频道) -----
+# ----- 📻 网络电台 (261个频道) -----
 #EXTINF:-1 group-title="📻 网络电台",香港第三台
 http://45.192.97.170:8880/play/6414.m3u8
 #EXTINF:-1 group-title="📻 网络电台",亚洲热歌
@@ -573,8 +573,6 @@ http://45.192.97.170:8880/play/6589.m3u8
 http://45.192.97.170:8880/play/6590.m3u8
 #EXTINF:-1 group-title="📻 网络电台",北京生活
 http://45.192.97.170:8880/play/6591.m3u8
-#EXTINF:-1 group-title="📻 网络电台",第一财经
-http://45.192.97.170:8880/play/6592.m3u8
 #EXTINF:-1 group-title="📻 网络电台",湖南潇湘之声
 http://45.192.97.170:8880/play/6593.m3u8
 #EXTINF:-1 group-title="📻 网络电台",湖南经济广播
@@ -844,7 +842,7 @@ http://45.192.97.170:8880/play/6748.m3u8
 #EXTINF:-1 group-title="📻 网络电台",青海交通音乐广播
 http://45.192.97.170:8880/play/6750.m3u8
 
-# ----- 🎤 韩国女团 (112个频道) -----
+# ----- 🎤 韩国女团 (113个频道) -----
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★021
 http://45.192.97.170:8880/play/6257.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★022
@@ -1027,6 +1025,8 @@ http://45.192.97.170:8880/play/6345.m3u8
 http://45.192.97.170:8880/play/6346.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★129
 http://45.192.97.170:8880/play/6347.m3u8
+#EXTINF:-1 group-title="🎤 韩国女团",歌团★130
+http://45.192.97.170:8880/play/6348.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★131
 http://45.192.97.170:8880/play/6349.m3u8
 #EXTINF:-1 group-title="🎤 韩国女团",歌团★133
