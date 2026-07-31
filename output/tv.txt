@@ -3,19 +3,19 @@ CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
-CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
+CCTV-11,http://45.192.97.170:8880/play/12.m3u8
+CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CGTN,http://119.233.255.62:1234/609017205
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
@@ -105,7 +105,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 ☘️广西频道,#genre#
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
