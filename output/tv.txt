@@ -1,12 +1,12 @@
 📺央视频道,#genre#
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
-CCTV-4,http://69.30.245.50/live/cctv4.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
+CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
@@ -33,7 +33,6 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 东南卫视,http://219.135.171.213:7788/849116810
 江西卫视,http://219.135.171.213:7788/783847495
 山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
-河南卫视,http://219.135.171.213:7788/790187291
 湖北卫视,http://219.135.171.213:7788/947472496
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 广东卫视,http://219.135.171.213:7788/608831231
@@ -123,6 +122,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
+长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
 ☘️内蒙古频道,#genre#
@@ -165,7 +165,6 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 ☘️河南频道,#genre#
-河南卫视,http://219.135.171.213:7788/790187291
 ☘️湖北频道,#genre#
 湖北卫视,http://219.135.171.213:7788/947472496
 ☘️湖南频道,#genre#
