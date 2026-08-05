@@ -2,16 +2,16 @@
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
-CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
+CCTV-15,http://45.192.97.170:8880/play/16.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
@@ -27,6 +27,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
 内蒙古卫视,http://112.27.235.94:8000/hls/49/index.m3u8
 辽宁卫视,http://219.135.171.213:7788/630291707
+吉林卫视,http://219.135.171.213:7788/947472500
 黑龙江卫视,http://219.135.171.213:7788/738906901
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
@@ -83,7 +84,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️山东频道,#genre#
 山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
 ☘️重庆频道,#genre#
-江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 ☘️四川频道,#genre#
 延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8
@@ -92,6 +93,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 ☘️云南频道,#genre#
 ☘️陕西频道,#genre#
+河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 ☘️甘肃频道,#genre#
 ☘️青海频道,#genre#
 ☘️宁夏频道,#genre#
@@ -129,6 +131,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️辽宁频道,#genre#
 辽宁卫视,http://219.135.171.213:7788/630291707
 ☘️吉林频道,#genre#
+吉林卫视,http://219.135.171.213:7788/947472500
 长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 农安新闻综合 [Geo-blocked],https://stream2.jlntv.cn/naxw/sd/live.m3u8
@@ -145,6 +148,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 白山新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 松原新闻综合 [Geo-blocked],https://stream2.jlntv.cn/sytv/sd/live.m3u8
+前郭综合 [Geo-blocked],https://stream2.jlntv.cn/qg/sd/live.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
@@ -153,6 +157,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️黑龙江频道,#genre#
 黑龙江卫视,http://219.135.171.213:7788/738906901
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
+黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
@@ -161,7 +166,6 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 ☘️河南频道,#genre#
-河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
 ☘️湖北频道,#genre#
 湖北卫视,http://219.135.171.213:7788/947472496
 ☘️湖南频道,#genre#
