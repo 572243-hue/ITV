@@ -1,18 +1,18 @@
 📺央视频道,#genre#
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
+CCTV-5,http://69.30.245.50/live/cctv5.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
-CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
@@ -26,7 +26,6 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 河北卫视,http://219.135.171.213:7788/962042070
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
 辽宁卫视,http://219.135.171.213:7788/630291707
-吉林卫视,http://219.135.171.213:7788/947472500
 黑龙江卫视,http://219.135.171.213:7788/738906901
 东方卫视,http://219.135.171.213:7788/651632648
 江苏卫视,http://219.135.171.213:7788/623899368
@@ -43,8 +42,6 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
-甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
-青海卫视,http://219.135.171.213:7788/947472506
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 海峡卫视,http://219.135.171.213:7788/849119120
 ☘️上海频道,#genre#
@@ -91,6 +88,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 ☘️四川频道,#genre#
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
+延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 ☘️贵州频道,#genre#
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
@@ -98,10 +96,9 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️云南频道,#genre#
 云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
 ☘️陕西频道,#genre#
+河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 ☘️甘肃频道,#genre#
-甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 ☘️青海频道,#genre#
-青海卫视,http://219.135.171.213:7788/947472506
 ☘️宁夏频道,#genre#
 ☘️新疆频道,#genre#
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
@@ -113,7 +110,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 ☘️广西频道,#genre#
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
@@ -129,14 +126,14 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 ☘️山西频道,#genre#
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8
 长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
 ☘️内蒙古频道,#genre#
 ☘️辽宁频道,#genre#
 辽宁卫视,http://219.135.171.213:7788/630291707
 ☘️吉林频道,#genre#
-吉林卫视,http://219.135.171.213:7788/947472500
 长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 农安新闻综合 [Geo-blocked],https://stream2.jlntv.cn/naxw/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 吉林市新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jilin1/sd/live.m3u8
@@ -144,6 +141,7 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 四平新闻综合 [Geo-blocked],https://stream2.jlntv.cn/sptv/sd/live.m3u8
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+通化新闻 [Geo-blocked],https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
 集安综合 [Geo-blocked],https://stream2.jlntv.cn/ja/sd/live.m3u8
@@ -187,7 +185,7 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 # ===== 以下为自动追加的频道 =====
 
 🌊港·澳·台,#genre#
-九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
