@@ -8,11 +8,11 @@ CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
-CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
+CCTV-12,http://45.192.97.170:8880/play/13.m3u8
+CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
@@ -34,8 +34,10 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 湖北卫视,http://219.135.171.213:7788/947472496
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
+三沙卫视,http://219.135.171.213:7788/961023778
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
+甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 青海卫视,http://219.135.171.213:7788/947472506
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 兵团卫视,http://219.135.171.213:7788/956923145
@@ -93,6 +95,7 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 ☘️陕西频道,#genre#
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 ☘️甘肃频道,#genre#
+甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 ☘️青海频道,#genre#
 青海卫视,http://219.135.171.213:7788/947472506
 ☘️宁夏频道,#genre#
@@ -113,10 +116,12 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 ☘️海南频道,#genre#
+三沙卫视,http://219.135.171.213:7788/961023778
 ☘️北京频道,#genre#
 ☘️天津频道,#genre#
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 ☘️河北频道,#genre#
+河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
@@ -177,6 +182,6 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 🌊港·澳·台,#genre#
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+凤凰香港,http://r.jdshipin.com/NfC0f
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-凤凰香港,http://r.jdshipin.com/NfC0f
