@@ -9,9 +9,9 @@ CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
-CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
@@ -24,7 +24,6 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 北京卫视,http://219.135.171.213:7788/630287636
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://219.135.171.213:7788/630291707
 东方卫视,http://219.135.171.213:7788/651632648
 江苏卫视,http://219.135.171.213:7788/623899368
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -93,7 +92,6 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 ☘️云南频道,#genre#
 ☘️陕西频道,#genre#
-河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 ☘️甘肃频道,#genre#
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 ☘️青海频道,#genre#
@@ -121,7 +119,6 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 ☘️天津频道,#genre#
 天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 ☘️河北频道,#genre#
-河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
@@ -130,7 +127,6 @@ CGTN俄语,http://219.135.171.213:7788/609006446
 ☘️内蒙古频道,#genre#
 内蒙古卫视,http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
 ☘️辽宁频道,#genre#
-辽宁卫视,http://219.135.171.213:7788/630291707
 ☘️吉林频道,#genre#
 长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
