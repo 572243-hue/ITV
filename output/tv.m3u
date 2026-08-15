@@ -5,28 +5,28 @@ http://69.30.245.50/live/cctv8.m3u8
 http://45.192.97.170:8880/play/6.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-2
 http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-5
-http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-4
-http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-6
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-7
-http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-3
-http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
 http://45.192.97.170:8880/play/12.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-4
+http://69.30.245.50/live/cctv4.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-7
+http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-9
 http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-12
-http://45.192.97.170:8880/play/13.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://45.192.97.170:8880/play/15.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-12
+http://45.192.97.170:8880/play/13.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-16
 http://183.11.239.36:808/hls/169/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-17
 http://45.192.97.170:8880/play/17.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-10
@@ -172,7 +172,7 @@ http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b56237284
 #EXTINF:-1 group-title="☘️广东频道",深圳卫视
 http://112.27.235.94:8000/hls/33/index.m3u8
 #EXTINF:-1 group-title="☘️广东频道",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="☘️广西频道",广西卫视
 http://1.190.240.47:9003/hls/3057/index.m3u8
 #EXTINF:-1 group-title="☘️广西频道",广西国际
@@ -189,6 +189,8 @@ http://1.94.31.214/php/hebei.php?id=nmpd
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️河北频道",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="☘️山西频道",太谷新闻综合
+https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 #EXTINF:-1 group-title="☘️山西频道",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
 #EXTINF:-1 group-title="☘️辽宁频道",辽宁卫视
@@ -241,6 +243,8 @@ http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 http://stream5.jlntv.cn/wq/sd/live.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",黑龙江新闻
 https://ls.qingting.fm/live/4974/64k.m3u8
+#EXTINF:-1 group-title="☘️黑龙江频道",黑龙江少儿
+https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨新闻综合
 http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨资讯
@@ -253,8 +257,6 @@ http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️黑龙江频道",甘南县综合
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 group-title="☘️河南频道",河南乡村
-http://1.94.31.214/php/hntv.php?id=hnxc
 #EXTINF:-1 group-title="☘️湖北频道",湖北卫视
 http://219.135.171.213:7788/947472496
 #EXTINF:-1 group-title="🌊港澳台频道",台视新闻
@@ -275,11 +277,13 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 # ===== 以下为自动追加的频道 =====
 
 # ----- 🌊港·澳·台 -----
-#EXTINF:-1 group-title="🌊港·澳·台",长白山电视台
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="🌊港·澳·台",绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="🌊港·澳·台",九台
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="🌊港·澳·台",凤凰香港
 http://r.jdshipin.com/NfC0f
 #EXTINF:-1 group-title="🌊港·澳·台",武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
+#EXTINF:-1 group-title="🌊港·澳·台",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
