@@ -7,10 +7,10 @@ CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
@@ -19,7 +19,6 @@ CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CGTN,http://219.135.171.213:7788/609017205
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CHC动作电影,http://183.185.66.248:9003/hls/41/index.m3u8
 📡卫视频道,#genre#
 北京卫视,http://219.135.171.213:7788/630287636
 天津卫视,http://1.190.240.47:9003/hls/3043/index.m3u8
@@ -35,7 +34,6 @@ CHC动作电影,http://183.185.66.248:9003/hls/41/index.m3u8
 重庆卫视,http://219.135.171.213:7788/738910914
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 甘肃卫视,http://1.190.240.47:9003/hls/3064/index.m3u8
-宁夏卫视,http://219.135.171.213:7788/738910535
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 兵团卫视,http://219.135.171.213:7788/956923145
 金鹰卡通,http://1.190.240.47:9003/hls/2074/index.m3u8
@@ -94,7 +92,6 @@ CHC动作电影,http://183.185.66.248:9003/hls/41/index.m3u8
 甘肃卫视,http://1.190.240.47:9003/hls/3064/index.m3u8
 ☘️青海频道,#genre#
 ☘️宁夏频道,#genre#
-宁夏卫视,http://219.135.171.213:7788/738910535
 ☘️新疆频道,#genre#
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 白城新闻综合 [Geo-blocked],https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
@@ -102,7 +99,6 @@ CHC动作电影,http://183.185.66.248:9003/hls/41/index.m3u8
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广东频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东少儿,http://120.198.86.186:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
@@ -122,6 +118,7 @@ CHC动作电影,http://183.185.66.248:9003/hls/41/index.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
 ☘️内蒙古频道,#genre#
 ☘️辽宁频道,#genre#
