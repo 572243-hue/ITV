@@ -1,26 +1,27 @@
 📺央视频道,#genre#
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
+CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-12,http://45.192.97.170:8880/play/13.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-11,http://45.192.97.170:8880/play/12.m3u8
+CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
-CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CGTN,http://219.135.171.213:7788/609017205
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 📡卫视频道,#genre#
 北京卫视,http://219.135.171.213:7788/630287636
+天津卫视,http://222.137.229.140:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://219.135.171.213:7788/962042070
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 辽宁卫视,http://219.135.171.213:7788/630291707
@@ -102,6 +103,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 ☘️海南频道,#genre#
 ☘️北京频道,#genre#
 ☘️天津频道,#genre#
+天津卫视,http://222.137.229.140:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️河北频道,#genre#
 河北卫视,http://219.135.171.213:7788/962042070
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
@@ -160,6 +162,6 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 # ===== 以下为自动追加的频道 =====
 
 🌊港·澳·台,#genre#
-长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
