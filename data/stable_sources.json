@@ -2386,5 +2386,17 @@
     "last_verified": null,
     "fail_count": 0,
     "status": "active"
+  },
+  "TVB星河": {
+    "channel_name": "TVB星河",
+    "url": "http://r.jdshipin.com/sXuuD",
+    "latency": 217,
+    "video_codec": "",
+    "promoted_at": "2026-08-20T01:16:45.516927",
+    "is_fixed": false,
+    "auto_optimize": false,
+    "last_verified": null,
+    "fail_count": 0,
+    "status": "active"
   }
 }
