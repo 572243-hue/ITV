@@ -3,24 +3,24 @@
 http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5+
 http://45.192.97.170:8880/play/6.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-3
-http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-2
 http://69.30.245.50/live/cctv2.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-3
+http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-7
 http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-9
-http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-11
-http://45.192.97.170:8880/play/12.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-10
-http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-15
-http://45.192.97.170:8880/play/16.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-9
+http://69.30.245.50/live/cctv9.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-10
+http://69.30.245.50/live/cctv10.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-11
+http://45.192.97.170:8880/play/12.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-15
+http://45.192.97.170:8880/play/16.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://45.192.97.170:8880/play/15.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
@@ -43,8 +43,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="📡卫视频道",东方卫视
 http://219.135.171.213:7788/651632648
-#EXTINF:-1 group-title="📡卫视频道",江苏卫视
-http://219.135.171.213:7788/623899368
 #EXTINF:-1 group-title="📡卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 #EXTINF:-1 group-title="📡卫视频道",安徽卫视
@@ -63,6 +61,8 @@ http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 http://219.135.171.213:7788/956923145
 #EXTINF:-1 group-title="📡卫视频道",CETV-1
 http://111.8.242.104:8088/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📡卫视频道",CETV-2
+http://119.166.53.110:9901/tsfile/live/0002_51.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡卫视频道",海峡卫视
 http://219.135.171.213:7788/849119120
 #EXTINF:-1 group-title="☘️江苏频道",靖宇
@@ -137,10 +137,6 @@ http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-8001
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1 group-title="☘️河北频道",河北农民
 https://ls.qingting.fm/live/1650/64k.m3u8
-#EXTINF:-1 group-title="☘️河北频道",邢台综合
-https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="☘️河北频道",滦平新闻
-http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️山西频道",山西卫视
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="☘️山西频道",太谷新闻综合

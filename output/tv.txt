@@ -1,15 +1,15 @@
 📺央视频道,#genre#
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-11,http://45.192.97.170:8880/play/12.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
-CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-11,http://45.192.97.170:8880/play/12.m3u8
+CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
@@ -22,7 +22,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 📡卫视频道,#genre#
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 东方卫视,http://219.135.171.213:7788/651632648
-江苏卫视,http://219.135.171.213:7788/623899368
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 安徽卫视,http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
 山东卫视,http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
@@ -32,6 +31,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 兵团卫视,http://219.135.171.213:7788/956923145
 CETV-1,http://111.8.242.104:8088/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV-2,http://119.166.53.110:9901/tsfile/live/0002_51.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://219.135.171.213:7788/849119120
 ☘️上海频道,#genre#
 ☘️江苏频道,#genre#
@@ -91,8 +91,6 @@ CETV-1,http://111.8.242.104:8088/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&a
 ☘️天津频道,#genre#
 ☘️河北频道,#genre#
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
-邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
-滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
