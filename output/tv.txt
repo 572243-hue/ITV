@@ -1,24 +1,24 @@
 📺央视频道,#genre#
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
-CCTV-17,http://45.192.97.170:8880/play/17.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
-CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
+CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
+CCTV-17,http://45.192.97.170:8880/play/17.m3u8
+CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CGTN,http://219.135.171.213:7788/609017205
-CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN Documentary,https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 📡卫视频道,#genre#
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 吉林卫视,http://219.135.171.213:7788/947472500
@@ -31,7 +31,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 湖北卫视,http://219.135.171.213:7788/947472496
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 深圳卫视,http://221.7.175.154:8445/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://219.135.171.213:7788/961023778
 海南卫视,http://219.135.171.213:7788/947472502
 四川卫视,http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
@@ -105,7 +104,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 ☘️海南频道,#genre#
 海南卫视,http://219.135.171.213:7788/947472502
-三沙卫视,http://219.135.171.213:7788/961023778
 ☘️北京频道,#genre#
 ☘️天津频道,#genre#
 ☘️河北频道,#genre#
@@ -114,6 +112,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 ☘️内蒙古频道,#genre#
 ☘️辽宁频道,#genre#
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
