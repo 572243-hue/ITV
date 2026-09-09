@@ -1,16 +1,16 @@
 📺央视频道,#genre#
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
-CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
@@ -18,7 +18,7 @@ CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CGTN,http://219.135.171.213:7788/609017205
-CGTN Documentary,https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
+CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 📡卫视频道,#genre#
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 吉林卫视,http://219.135.171.213:7788/947472500
@@ -28,7 +28,6 @@ CGTN Documentary,https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/
 江西卫视,http://219.135.171.213:7788/783847495
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
-金鹰卡通,http://221.13.235.175:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://219.135.171.213:7788/849119120
 ☘️上海频道,#genre#
 ☘️江苏频道,#genre#
@@ -75,6 +74,7 @@ CGTN Documentary,https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 ☘️广西频道,#genre#
