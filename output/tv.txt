@@ -1,14 +1,14 @@
 📺央视频道,#genre#
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
-CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
@@ -99,6 +99,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 ☘️黑龙江频道,#genre#
+黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
