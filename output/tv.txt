@@ -1,15 +1,15 @@
 📺央视频道,#genre#
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
-CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-15,http://45.192.97.170:8880/play/16.m3u8
+CCTV-14,http://45.192.97.170:8880/play/15.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-13,http://45.192.97.170:8880/play/14.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
@@ -92,7 +92,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
-白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
