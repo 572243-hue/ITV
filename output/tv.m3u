@@ -11,20 +11,20 @@ http://69.30.245.50/live/cctv4.m3u8
 http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-7
 http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-9
-http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-8
 http://69.30.245.50/live/cctv8.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-9
+http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
 http://45.192.97.170:8880/play/12.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-10
 http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://45.192.97.170:8880/play/15.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-5
-http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
 http://45.192.97.170:8880/play/14.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-5
+http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-6
@@ -38,7 +38,7 @@ http://45.192.97.170:8880/play/17.m3u8
 #EXTINF:-1 group-title="📺央视频道",CGTN
 http://219.135.171.213:7788/609017205
 #EXTINF:-1 group-title="📺央视频道",CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 group-title="📡卫视频道",深圳卫视
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 group-title="📡卫视频道",海峡卫视
@@ -90,7 +90,7 @@ http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 group-title="☘️广东频道",深圳卫视
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 group-title="☘️广东频道",南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 group-title="☘️河北频道",邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️河北频道",滦平新闻
