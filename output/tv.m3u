@@ -3,22 +3,22 @@
 http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5+
 http://45.192.97.170:8880/play/6.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-2
-http://69.30.245.50/live/cctv2.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-9
+http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-4
 http://69.30.245.50/live/cctv4.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-2
+http://69.30.245.50/live/cctv2.m3u8
+#EXTINF:-1 group-title="📺央视频道",CCTV-15
+http://45.192.97.170:8880/play/16.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-7
 http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-8
 http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-9
-http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-10
 http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
 http://45.192.97.170:8880/play/12.m3u8
-#EXTINF:-1 group-title="📺央视频道",CCTV-15
-http://45.192.97.170:8880/play/16.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5
@@ -43,10 +43,10 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 group-title="📡卫视频道",深圳卫视
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 group-title="📡卫视频道",新疆卫视
-http://183.11.239.36:808/hls/65/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",海峡卫视
 http://219.135.171.213:7788/849119120
+#EXTINF:-1 group-title="📡卫视频道",翡翠台
+http://r.jdshipin.com/qrfbg
 #EXTINF:-1 group-title="☘️江苏频道",靖宇
 http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="☘️江苏频道",苏州新闻综合
@@ -83,10 +83,6 @@ http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-#EXTINF:-1 group-title="☘️新疆频道",新疆卫视
-http://183.11.239.36:808/hls/65/index.m3u8
-#EXTINF:-1 group-title="☘️新疆频道",伊犁维吾尔
-http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 #EXTINF:-1 group-title="☘️新疆频道",奎屯汉语
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="☘️广东频道",广州综合
@@ -145,13 +141,19 @@ http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
 #EXTINF:-1 group-title="☘️湖南频道",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 group-title="🌊港澳台频道",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="🌊港澳台频道",ViuTV
+http://r.jdshipin.com/TcKr2
 
 # ===== 以下为自动追加的频道 =====
 
 # ----- 🌊港·澳·台 -----
-#EXTINF:-1 group-title="🌊港·澳·台",长白山电视台
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🌊港·澳·台",凤凰香港
+http://r.jdshipin.com/NfC0f
 #EXTINF:-1 group-title="🌊港·澳·台",武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
 #EXTINF:-1 group-title="🌊港·澳·台",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🌊港·澳·台",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild

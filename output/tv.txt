@@ -1,14 +1,14 @@
 📺央视频道,#genre#
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
+CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
-CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
@@ -22,8 +22,8 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 📡卫视频道,#genre#
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 海峡卫视,http://219.135.171.213:7788/849119120
+翡翠台,http://r.jdshipin.com/qrfbg
 ☘️上海频道,#genre#
 ☘️江苏频道,#genre#
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
@@ -58,8 +58,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 ☘️青海频道,#genre#
 ☘️宁夏频道,#genre#
 ☘️新疆频道,#genre#
-新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 ☘️广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
@@ -104,10 +102,13 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 ☘️湖南频道,#genre#
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 🌊港澳台频道,#genre#
+翡翠台,http://r.jdshipin.com/qrfbg
+ViuTV,http://r.jdshipin.com/TcKr2
 
 # ===== 以下为自动追加的频道 =====
 
 🌊港·澳·台,#genre#
-长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+凤凰香港,http://r.jdshipin.com/NfC0f
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
