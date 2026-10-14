@@ -1,14 +1,14 @@
 📺央视频道,#genre#
 CCTV-5+,http://45.192.97.170:8880/play/6.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-15,http://45.192.97.170:8880/play/16.m3u8
-CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-11,http://45.192.97.170:8880/play/12.m3u8
+CCTV-9,http://69.30.245.50/live/cctv9.m3u8
+CCTV-15,http://45.192.97.170:8880/play/16.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
+CCTV-11,http://45.192.97.170:8880/play/12.m3u8
+CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
@@ -20,8 +20,6 @@ CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CGTN,http://219.135.171.213:7788/609017205
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 📡卫视频道,#genre#
-陕西卫视,http://219.135.171.213:7788/738910838
-陕西卫视,http://219.135.171.213:7788/738910838
 海峡卫视,http://219.135.171.213:7788/849119120
 ☘️上海频道,#genre#
 ☘️江苏频道,#genre#
@@ -44,7 +42,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 ☘️贵州频道,#genre#
 ☘️云南频道,#genre#
 ☘️陕西频道,#genre#
-陕西卫视,http://219.135.171.213:7788/738910838
 ☘️甘肃频道,#genre#
 ☘️青海频道,#genre#
 ☘️宁夏频道,#genre#
@@ -53,7 +50,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
-南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 ☘️广西频道,#genre#
 ☘️海南频道,#genre#
 ☘️北京频道,#genre#
@@ -62,7 +59,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 ☘️山西频道,#genre#
-陕西卫视,http://219.135.171.213:7788/738910838
 ☘️内蒙古频道,#genre#
 ☘️辽宁频道,#genre#
 ☘️吉林频道,#genre#
